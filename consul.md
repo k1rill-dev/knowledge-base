@@ -10,3 +10,5 @@ Domains=~consul
 и перезапусти с помощью `systemctl restart systemd-resolved`
 
 Если все еще фигня какая то, чекни статус и есть ли еще один, конфликтующий DNS сервер(dnsmasq например) с помощью `sudo netstat -tuln | grep 53` 
+
+[[DevOps]] [[Полезняшка]] [[Диплом]]
